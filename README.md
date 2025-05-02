@@ -1,4 +1,4 @@
-# 🌌 Frieren: Beyond Journey's End {#frieren-header}
+# Frieren: Beyond Journey's End
 
 **Frieren: Beyond Journey's End**, also known as **Frieren**, is an animated series about an almost immortal elf. It tells the story of her quiet life after the legendary journey with her companions, and her slow realization that while she will live for thousands of years, those she cares about will not.
 
@@ -8,9 +8,9 @@
 
 | Feature | Description |
 | ------- | ----------- |
-| 🧝‍♀️ Unique Perspective | Set after the typical fantasy "end", it shows what comes next. |
-| 💬 Anti-Romance | Focuses on friendship, reflection, and emotional growth. |
-| 🌿 Calming Aesthetic | Amazing animation, beautiful soundtrack, and slow pacing. |
+| Unique Perspective | Set after the typical fantasy "end", it shows what comes next. |
+| Anti-Romance | Focuses on friendship, reflection, and emotional growth. |
+| Calming Aesthetic | Amazing animation, beautiful soundtrack, and slow pacing. |
 
 ---
 
